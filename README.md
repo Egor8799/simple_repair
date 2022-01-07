@@ -7,7 +7,8 @@ A simple repair to help you check sound, install Windows drivers and check inter
 3. sudo apt install pip
 4. pip install playsound
 
-# When you have installed this repository, go to the directory with the program files and run via:
+# When you've downloaded it all, unzip it or put it in a folder somewhere.
+# Next, run the terminal in the folder, and use this command:
 python3 repair.py
 
-# Good luck!
+# Good luck!!! :D
